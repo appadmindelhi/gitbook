@@ -14,6 +14,7 @@
   * [Theme Integration (App Embed)](app-overview/settings/theme-integration.md)
   * [Storefront Appearance](app-overview/settings/appearance.md)
   * [Plan & Billing](app-overview/settings/billing.md)
+* [Product-Page Placement](app-overview/product-page-placement.md)
 * [Offer Builder](app-overview/offer-builder/README.md)
   * [Frequently Bought Together (FBT)](app-overview/offer-builder/fbt.md)
   * [Cross-sell](app-overview/offer-builder/cross-sell.md)
