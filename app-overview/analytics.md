@@ -2,18 +2,25 @@
 
 UpsellSuite tracks real, attributed performance for every offer — not estimates.
 
+![UpsellSuite Analytics — KPI row, Performance by offer table](../assets/analytics-1.jpg)
+
 ### What's tracked
 
 - **Impressions** — how many times an offer was shown
 - **Accepts** — how many times a shopper added the offered product
-- **Declines** — impressions that didn't convert
+- **Declines** — offers shown then dismissed, without adding anything
+- **Confirmed orders** — completed orders that included at least one upsell
 - **Revenue** — attributed order revenue from accepted offers, in your store's currency
-- **AOV lift** and **acceptance rate** — derived from the above
+- **Conversion rate** — accepts ÷ impressions
+
+Three of the KPIs (Offer revenue, Impressions, Accepts) show a small trend line across the selected date range. Clicking a KPI sorts the Performance by offer table below by that metric.
+
+![UpsellSuite Analytics — Revenue funnel, secondary breakdowns, Revenue trend section](../assets/analytics-2.jpg)
 
 ### Views
 
 - **Dashboard summary** — headline KPIs for the current period, with a link into full Analytics
-- **Full Analytics page** — breakdowns by offer, by placement (Product page / Cart page / Post-purchase / Thank-you), and by offer type, with CSV export
+- **Full Analytics page** — Performance by offer table (sortable, searchable, filterable by status), a Revenue funnel (Impressions → Accepts → Orders → Revenue with stage-to-stage retention), Revenue by placement, Top performers, Insights (revenue per accept/impression, avg upsell per order), and a Revenue trend section — with CSV export
 
 ### How revenue is attributed
 
