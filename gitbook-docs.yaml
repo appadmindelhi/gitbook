@@ -1,10 +1,10 @@
 $schema: https://api.gitbook.com/gitbook-docs.yaml
 site:
-  title: UpsellSuite Docs
+  title: UpsellSuite Help Docs
   structure:
     - type: space
       key: upsellsuite-docs
-      title: UpsellSuite Docs
+      title: UpsellSuite Help Docs
       path: /
       default: true
       content:
