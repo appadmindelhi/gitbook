@@ -21,7 +21,7 @@ Click **View all analytics** to go to the full [Analytics](analytics.md) page fo
 
 ### Your Success Manager
 
-A quick way to book a call or reach support directly from the Dashboard.
+Amritosh, your Success Manager, is here to help with offer setup, targeting rules, and getting your embed live. Book a call or chat with support directly from the Dashboard.
 
 ### Setup status
 
