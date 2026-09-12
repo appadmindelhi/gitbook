@@ -2,6 +2,8 @@
 
 The Dashboard is your home screen in UpsellSuite — a quick-glance view of setup progress and store performance.
 
+![UpsellSuite Dashboard, fully set up with App embed, Product page, and Cart page all active](../assets/dashboard.jpg)
+
 ### Getting started checklist
 
 Tracks the three onboarding milestones: enabling the app embed, creating your first offer, and publishing your first offer. This section hides itself once you're fully set up.
