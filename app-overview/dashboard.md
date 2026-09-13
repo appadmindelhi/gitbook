@@ -2,7 +2,7 @@
 
 The Dashboard is your home screen in UpsellSuite — a quick-glance view of setup progress and store performance.
 
-![UpsellSuite Dashboard, fully set up with App embed, Product page, and Cart page all active](../assets/dashboard.jpg)
+![UpsellSuite Dashboard, fully set up with App embed, Product page, and Cart page all active](../.gitbook/assets/dashboard.jpg)
 
 ### Getting started checklist
 
@@ -12,10 +12,10 @@ Tracks the three onboarding milestones: enabling the app embed, creating your fi
 
 A rolling summary of:
 
-- **Offer revenue** — attributed revenue from all published offers this period
-- **Impressions** — how many times your offers were shown
-- **Accepts** — how many times a shopper added an offered product
-- **Conversion rate** — accepts ÷ impressions
+* **Offer revenue** — attributed revenue from all published offers this period
+* **Impressions** — how many times your offers were shown
+* **Accepts** — how many times a shopper added an offered product
+* **Conversion rate** — accepts ÷ impressions
 
 Click **View all analytics** to go to the full [Analytics](analytics.md) page for per-offer and per-placement breakdowns.
 

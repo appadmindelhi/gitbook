@@ -2,25 +2,25 @@
 
 UpsellSuite tracks real, attributed performance for every offer — not estimates.
 
-![UpsellSuite Analytics — KPI row, Performance by offer table](../assets/analytics-1.jpg)
+![UpsellSuite Analytics — KPI row, Performance by offer table](../.gitbook/assets/analytics-1.jpg)
 
 ### What's tracked
 
-- **Impressions** — how many times an offer was shown
-- **Accepts** — how many times a shopper added the offered product
-- **Declines** — offers shown then dismissed, without adding anything
-- **Confirmed orders** — completed orders that included at least one upsell
-- **Revenue** — attributed order revenue from accepted offers, in your store's currency
-- **Conversion rate** — accepts ÷ impressions
+* **Impressions** — how many times an offer was shown
+* **Accepts** — how many times a shopper added the offered product
+* **Declines** — offers shown then dismissed, without adding anything
+* **Confirmed orders** — completed orders that included at least one upsell
+* **Revenue** — attributed order revenue from accepted offers, in your store's currency
+* **Conversion rate** — accepts ÷ impressions
 
 Three of the KPIs (Offer revenue, Impressions, Accepts) show a small trend line across the selected date range. Clicking a KPI sorts the Performance by offer table below by that metric.
 
-![UpsellSuite Analytics — Revenue funnel, secondary breakdowns, Revenue trend section](../assets/analytics-2.jpg)
+![UpsellSuite Analytics — Revenue funnel, secondary breakdowns, Revenue trend section](../.gitbook/assets/analytics-2.jpg)
 
 ### Views
 
-- **Dashboard summary** — headline KPIs for the current period, with a link into full Analytics
-- **Full Analytics page** — Performance by offer table (sortable, searchable, filterable by status), a Revenue funnel (Impressions → Accepts → Orders → Revenue with stage-to-stage retention), Revenue by placement, Top performers, Insights (revenue per accept/impression, avg upsell per order), and a Revenue trend section — with CSV export
+* **Dashboard summary** — headline KPIs for the current period, with a link into full Analytics
+* **Full Analytics page** — Performance by offer table (sortable, searchable, filterable by status), a Revenue funnel (Impressions → Accepts → Orders → Revenue with stage-to-stage retention), Revenue by placement, Top performers, Insights (revenue per accept/impression, avg upsell per order), and a Revenue trend section — with CSV export
 
 ### How revenue is attributed
 

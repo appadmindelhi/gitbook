@@ -13,7 +13,7 @@ UpsellSuite's storefront offers render through a **theme app embed**, which must
 3. Toggle the embed **on**, then click **Save** in the Theme Editor.
 4. Return to the UpsellSuite tab — your Dashboard's **Setup status** will automatically update to show **App embed: Enabled** within moments, with no page refresh needed.
 
-![Theme Editor App embeds panel with UpsellSuite toggled on](../assets/theme-editor-app-embeds.jpg)
+![Theme Editor App embeds panel with UpsellSuite toggled on](../.gitbook/assets/theme-editor-app-embeds.jpg)
 
 {% hint style="info" %}
 If you switch to a different theme later (or publish a new one), you'll need to enable the app embed on that theme too — embed status is tracked per theme.
@@ -21,7 +21,7 @@ If you switch to a different theme later (or publish a new one), you'll need to 
 
 ### 3. Create your first offer
 
-Use **Create offer** from the Dashboard to launch the Offer Builder. See [Offer Builder](../app-overview/offer-builder/README.md) for a walkthrough of each offer type.
+Use **Create offer** from the Dashboard to launch the Offer Builder. See [Offer Builder](../app-overview/offer-builder/) for a walkthrough of each offer type.
 
 ### 4. Publish
 
@@ -31,9 +31,9 @@ Once your offer is configured, publish it from the wizard's final step. Publishe
 
 The Dashboard's **Setup status** card tracks four things:
 
-- **App embed** — enabled via the Theme Editor (step 2 above)
-- **Product page** — at least one active Product Page offer
-- **Cart page** — at least one active Cart Page offer
-- **Post-purchase** — at least one active Post-purchase offer
+* **App embed** — enabled via the Theme Editor (step 2 above)
+* **Product page** — at least one active Product Page offer
+* **Cart page** — at least one active Cart Page offer
+* **Post-purchase** — at least one active Post-purchase offer
 
 You don't need every row checked to start selling — this is a progress guide, not a requirement.

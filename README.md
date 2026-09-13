@@ -1,4 +1,4 @@
-# 👋 Welcome to UpsellSuite
+# Welcome to UpsellSuite
 
 This Help Center is your complete guide to using **UpsellSuite** — the all-in-one upsell, cross-sell, and post-purchase revenue app for Shopify. Whether you're just getting started or looking to unlock advanced features, this guide is here to help you every step of the way.
 

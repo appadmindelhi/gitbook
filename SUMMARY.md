@@ -3,11 +3,13 @@
 * [Welcome to UpsellSuite](README.md)
 
 ## Getting Started
+
 * [Introduction](getting-started/introduction.md)
 * [Installation Guide](getting-started/installation.md)
 * [Requirements & Compatibility](getting-started/requirements.md)
 
 ## App Overview
+
 * [Dashboard](app-overview/dashboard.md)
 * [Settings](app-overview/settings/README.md)
   * [Account](app-overview/settings/account.md)
@@ -22,10 +24,10 @@
   * [Post-purchase (One-Click Upsell)](app-overview/offer-builder/post-purchase.md)
   * [Thank-you Page Offers](app-overview/offer-builder/thank-you.md)
 * [Targeting & Scheduling](app-overview/targeting.md)
-* [Recommendation Widgets](app-overview/recommendation-widgets.md)
 * [Analytics](app-overview/analytics.md)
 
 ## Support & Resources
+
 * [Troubleshooting & FAQ](support/faq.md)
 * [Contact Support](support/contact.md)
 * [Roadmap](support/roadmap.md)
