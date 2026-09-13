@@ -2,7 +2,7 @@
 
 The Dashboard is your home screen in UpsellSuite — a quick-glance view of setup progress and store performance.
 
-![UpsellSuite Dashboard, fully set up with App embed, Product page, and Cart page all active](../.gitbook/assets/dashboard.jpg)
+![UpsellSuite Dashboard, fully set up with App embed, Product page, and Cart page all active](../.gitbook/assets/dashboard.png)
 
 ### Getting started checklist
 

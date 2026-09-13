@@ -6,7 +6,7 @@ Set store-wide defaults for how offer widgets look. Each card has a live preview
 These settings apply to **Product page** and **Cart** offers. Thank-you, Order status, and Post-purchase offers follow your Shopify Checkout design instead.
 {% endhint %}
 
-![Storefront appearance — Badge and CTA Button cards](../../.gitbook/assets/settings-appearance-1.jpg)
+![Storefront appearance — Badge and CTA Button cards](../../.gitbook/assets/appearance-1-badge-cta.png)
 
 ### Badge
 
@@ -16,7 +16,7 @@ Background color, text color, and shape (Pill, Rounded, or Square) for the "Limi
 
 Background color, text color, shape, and style (Filled or Outlined) for the main action button (e.g. "Add to order").
 
-![Storefront appearance — Product card and Pricing & discount badge previews](../../.gitbook/assets/settings-appearance-2.jpg)
+![Storefront appearance — Product card and Pricing & discount badge previews](../../.gitbook/assets/appearance-2-productcard-pricing.png)
 
 ### Product card
 
@@ -42,7 +42,7 @@ Background color, text color, and height for the variant dropdown shown on Cross
 
 Background, border, label text, and digit colors for the countdown banner.
 
-![Storefront appearance — Typography section](../../.gitbook/assets/settings-appearance-3.jpg)
+![Storefront appearance — Typography section](../../.gitbook/assets/appearance-3-typography.png)
 
 ### Typography
 

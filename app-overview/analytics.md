@@ -2,7 +2,7 @@
 
 UpsellSuite tracks real, attributed performance for every offer — not estimates.
 
-![UpsellSuite Analytics — KPI row, Performance by offer table](../.gitbook/assets/analytics-1.jpg)
+![UpsellSuite Analytics — KPI row, Performance by offer table](../.gitbook/assets/analytics-1-kpi-table.png)
 
 ### What's tracked
 
@@ -15,7 +15,7 @@ UpsellSuite tracks real, attributed performance for every offer — not estimate
 
 Three of the KPIs (Offer revenue, Impressions, Accepts) show a small trend line across the selected date range. Clicking a KPI sorts the Performance by offer table below by that metric.
 
-![UpsellSuite Analytics — Revenue funnel, secondary breakdowns, Revenue trend section](../.gitbook/assets/analytics-2.jpg)
+![UpsellSuite Analytics — Revenue funnel, secondary breakdowns, Revenue trend section](../.gitbook/assets/analytics-2-funnel.png)
 
 ### Views
 

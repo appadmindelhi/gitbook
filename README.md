@@ -8,7 +8,7 @@ From installation and setup to offer building, targeting, and analytics — we'v
 
 **Getting Started** — Requirements and the steps needed to install and activate the app on your store.
 
-**App Overview** — Step-by-step guides for every part of UpsellSuite: the Dashboard, Settings, the Offer Builder (FBT, Cross-sell, Add-on, Post-purchase, and Thank-you page offers), Targeting & Scheduling, Recommendation Widgets, and Analytics.
+**App Overview** — Step-by-step guides for every part of UpsellSuite: the Dashboard, Settings, the Offer Builder (FBT, Cross-sell, Add-on, Post-purchase, and Thank-you page offers), Targeting & Scheduling, and  Analytics.
 
 **Support & Resources** — Answers to common questions, how to reach us, and what we're building next.
 

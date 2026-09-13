@@ -13,7 +13,7 @@ UpsellSuite's storefront offers render through a **theme app embed**, which must
 3. Toggle the embed **on**, then click **Save** in the Theme Editor.
 4. Return to the UpsellSuite tab — your Dashboard's **Setup status** will automatically update to show **App embed: Enabled** within moments, with no page refresh needed.
 
-![Theme Editor App embeds panel with UpsellSuite toggled on](../.gitbook/assets/theme-editor-app-embeds.jpg)
+![Theme Editor App embeds panel with UpsellSuite toggled on](../.gitbook/assets/installation-appembeds.png)
 
 {% hint style="info" %}
 If you switch to a different theme later (or publish a new one), you'll need to enable the app embed on that theme too — embed status is tracked per theme.
